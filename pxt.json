@@ -1,5 +1,6 @@
 {
     "name": "IR-红外遥控实验",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
