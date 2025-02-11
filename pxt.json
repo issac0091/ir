@@ -1,0 +1,30 @@
+{
+    "name": "IR-红外遥控实验",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "MakerBit-IR-Receiver": "github:1010technologies/pxt-makerbit-ir-receiver#v1.5.14",
+        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.16",
+        "CubeBit": "github:4tronix/cubebit#v1.1.2",
+        "pxt-SGBotic-Ultimate-SR04-RGB": "github:sgbotic/pxt-sgbotic-ultimate-sr04-rgb#f7188bf33fcc24a7f78540e5ec7ebf7ab54f7134"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.57",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
